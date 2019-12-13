@@ -13,5 +13,4 @@ const App = () => {
     </>
   );
 };
-console.tron.warn('hello world');
 export default App;
